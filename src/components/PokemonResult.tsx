@@ -1,4 +1,3 @@
-import React from "react";
 import { GameStatus } from "../hooks/useGameManage";
 
 interface Props {

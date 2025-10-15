@@ -1,4 +1,3 @@
-import React from "react";
 import type { Pokemon } from "../types/pokemon.interface";
 import Spinner from "./Spinner";
 import { GameStatus } from "../hooks/useGameManage";
